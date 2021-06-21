@@ -8,8 +8,8 @@ Utilizou-se o dataset disponivel em: http://mason.gmu.edu/~lzhao9/materials/data
 Descrição dos Arquivos
  
 	dataset\ 	 - 6 datasets originais de treino e teste convertidos para .csv para facilitar leitura
-  preprocessed_scaled_data.csv - Datasets integrados e pré-processados em somente um arquivo, para facilitar carregamento dos dados
-	Classification task_simplified.ipynb 	 -  Versão simplificada do Notebook contendo o código de carregamento do dataset préprocessado e códigos para predição com modelos de AM
+  	preprocessed_scaled_data.csv - Datasets integrados e pré-processados em somente um arquivo, para facilitar carregamento dos dados
+	Classification task_simplified.ipynb 	 -  Versão simplificada do Notebook contendo o código de carregamento do dataset préprocessado e códigos para 	predição com modelos de AM
 	prediction_drones_Exploration+preprocessing+prediction.ipynb 	 - Notebook contendo código de pre processamento, exploração e predição para este problema, códigos mais gerais e mais explorativo em relação ao problema
 	state_machine.py - Implementação da Maquina de estados e dos behaviors paparazzi
 	vehicle.py	 - Implementação da lógica do veiculo (drone) e seus movimentos básicos
