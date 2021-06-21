@@ -5,6 +5,9 @@ Este projeto é referente ao trabalho final da disciplina de Aprendizado de Máq
 
 Utilizou-se o dataset disponivel em: http://mason.gmu.edu/~lzhao9/materials/data/UAV/
 
+PDF com artigo realizado para disciplina tambem disponivel neste repositório
+
+
 Descrição dos Arquivos
  
 	dataset\ 	 - 6 datasets originais de treino e teste convertidos para .csv para facilitar leitura
